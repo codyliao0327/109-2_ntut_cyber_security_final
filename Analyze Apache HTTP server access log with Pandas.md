@@ -96,3 +96,4 @@
 * https://www.guru99.com/python-regular-expressions-complete-tutorial.html
 * https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.str.contains.html#pandas.Series.str.contains
 * https://www.delftstack.com/zh-tw/howto/matplotlib/how-to-improve-subplot-size-or-spacing-with-many-subplots-in-matplotlib/
+* https://wcc723.github.io/development/2019/11/23/ten-mins-learn-markdown/
