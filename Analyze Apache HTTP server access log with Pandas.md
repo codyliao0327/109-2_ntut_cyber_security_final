@@ -24,7 +24,6 @@
 ###### 實作Apache Access Log檔案來源
 * https://github.com/elastic/examples/blob/master/Common%20Data%20Formats/apache_logs/apache_logs  
 ###### 實作Analyze Apache Access Log with Pandast成果  
-*
 > ![1](https://user-images.githubusercontent.com/82448674/122752452-9084a580-d2c3-11eb-9555-5e0f11014b7b.png)  
 #### Log檔下載下來為txt檔  
 　
