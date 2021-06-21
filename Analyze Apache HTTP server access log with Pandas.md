@@ -85,3 +85,14 @@
 4. 在繪圖上，也會一直遇到我們Log檔記錄的資料數不夠多的問題(只有三天的Access...)，導致繪圖出來顯示的資訊不夠明瞭，必須將時間分段的頻率換成天或是小時甚至是秒，才可以讓圖呈現更多我們想知道的資訊
 ### 學習到了什麼  
 經由這次的期末報告我學到非常多東西，本來覺得Apache Access Log分析應該很難做，沒想到後來跟著教學步驟一步一步做，一步一步去理解程式碼的作用，遇到問題時就先根據錯誤資訊初步判斷是什麼地方出問題，再上網搜尋搜尋解決的方式。在分析的其中其實還有遇到非常多零碎的小問題，不過幸好我有學過Python，對於這些txt檔、csv檔也都知道要如何處理，讓我可以運用既有學習到的能力結合在這項分析的報告上。至於分析完後要打成Markdown上傳到Github也是一項大工程，要再摸索一下Github如何上傳、如何使用，Markdown語法也要再搜尋一下，才能讓報告的呈現比較美觀。
+### 輔助參考資料
+##### 有些參考網頁已經被我關掉了...這邊列出我僅存的網頁
+* https://www.runoob.com/python/att-list-pop.html
+* https://www.runoob.com/python/att-string-split.html
+* https://kknews.cc/zh-tw/code/l456yje.html
+* https://blog.csdn.net/c1z2w3456789/article/details/107820648
+* https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.resample.html
+* https://ithelp.ithome.com.tw/articles/10196410
+* https://www.guru99.com/python-regular-expressions-complete-tutorial.html
+* https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.str.contains.html#pandas.Series.str.contains
+* https://www.delftstack.com/zh-tw/howto/matplotlib/how-to-improve-subplot-size-or-spacing-with-many-subplots-in-matplotlib/
